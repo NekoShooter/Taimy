@@ -1,0 +1,24 @@
+{
+  "name": "taimy",
+  "version": "1.0.0",
+  "description": "pequeña libreria para simplificar el uso de setInterval en js ",
+  "main": "Taimy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "setInterval",
+    "js",
+    "control de tiempo",
+    "cronometro"
+  ],
+  "author": "Neko Shooter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NekoShooter/Taimy"
+  },
+  "bugs": {
+    "url": "https://github.com/NekoShooter/Taimy/issues"
+  }
+}
