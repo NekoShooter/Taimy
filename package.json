@@ -1,5 +1,5 @@
 {
-  "name": "Taimy",
+  "name": "taimy",
   "version": "1.0.0",
   "description": "Taimy es una clase que ejecuta funciones dentro de un período de tiempo específico de manera más simple.",
   "main": "Taimy.js",

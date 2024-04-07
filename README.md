@@ -8,6 +8,11 @@
 Taimy es una clase que ejecuta funciones dentro de un período de tiempo específico de manera más sencilla.  
 [ver demo](#demo)
 
+###### instalacion:
+``` bash
+npm i taimy
+```
+
 
 #### ¿Qué soluciona Taimy?
 > _Si bien setInterval y setTimeOut hacen lo mismo que Taimy, algunas diferencias son:_
