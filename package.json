@@ -1,7 +1,7 @@
 {
-  "name": "taimy",
+  "name": "Taimy",
   "version": "1.0.0",
-  "description": "pequeña libreria para simplificar el uso de setInterval en js ",
+  "description": "Taimy es una clase que ejecuta funciones dentro de un período de tiempo específico de manera más simple.",
   "main": "Taimy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +20,6 @@
   },
   "bugs": {
     "url": "https://github.com/NekoShooter/Taimy/issues"
-  }
+  },
+  "homepage": "https://github.com/NekoShooter/Taimy"
 }
