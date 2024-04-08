@@ -2,7 +2,7 @@
 * Clase que ejecuta funciones en un lapzo de tiempo determinado de forma mas segura
 * @class
 */
-class Taimy {
+export default class Taimy {
     #bucle; #duracion; #tiempoInicial = 0; #tiempoTr = 0; #fn; #intervalo = 0; #espera; #stout; #ejecucion = 0;
 /**
 * Constructor opcional
