@@ -1,11 +1,9 @@
 {
   "name": "taimy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Taimy es una clase que ejecuta funciones dentro de un período de tiempo específico de manera más simple.",
   "main": "Taimy.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "type": "module",
   "keywords": [
     "setInterval",
     "js",
