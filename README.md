@@ -145,7 +145,7 @@ console.log(reloj);
 <p align="center"><a href="#"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhqNXh0M3lkYmd5azhpbWt0eWJvNm5zY3BjYTJtb3VkZHJiOTRneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fL4IcYID7dzTzsuAHA/source.gif" alt="Demo de Taimy"></a><p/>
 
 ``` JavaScript
-import {Taimy, TaimyForm,TaimyReloj} from "./Taimy.js";
+import {Taimy, TaimyForm,TaimyReloj} from "taimy.js";
 
 const img = document.getElementById('fotograma-clave');
 const span = document.getElementById('cronometro');
